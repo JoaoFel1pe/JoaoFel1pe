@@ -25,6 +25,7 @@ Olá, eu sou João Felipe, um desenvolvedor back-end apaixonado por Aprender e C
 - https://github.com/JoaoFel1pe/concurrency-project-golang: Um projeto que trabalha conceitos de concorrência usando Goroutines.
 - https://github.com/JoaoFel1pe/projeto_contabilidade_cin: Um projeto de análise e tratamento de dados em Python aplicado a uma interface gráfica (tkinter).
 - https://github.com/JoaoFel1pe/projeto-p1: Jogo criado em Python que aplica técnicas e práticas de POO.
+- https://github.com/JoaoFel1pe/clima-go-api/tree/main: Uma projeto para estruturação de APIs em Golang
 
 ## Estatísticas do GitHub
 
