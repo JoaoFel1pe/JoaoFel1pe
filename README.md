@@ -1,41 +1,96 @@
-# Bem-vindo ao meu perfil no GitHub! 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JoaoFel1pe.JoaoFel1pe&left_color=red) " />
 
-Olá, eu sou João Felipe, um desenvolvedor back-end apaixonado por Aprender e Colaborar. Este é o meu cantinho no GitHub onde compartilho projetos pessoais, contribuições para projetos open source e outras coisas interessantes.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=200&color=81F767&background=706DFF00&center=true&vCenter=true&random=false&width=435&lines=Hi!%F0%9F%91%8B;I'm+João+Felipe!" />
+</h1>
 
-## Sobre mim
+<h3 align="center">A passionate back-end developer who loves to learn and collaborate. This is my little corner on GitHub where I share personal projects, contributions to open source projects, and other interesting things. </h3>
 
-- 🔭 Atualmente estou trabalhando na Propig, uma empresa parceira ao Grupo Moura Baterias.
-- 🌱 Estou aprendendo linguagens e Frameworks de front-end para me capacitar.
-- 📚 Estou fazendo graduação em Sistemas de Informação na Universidade Federal de Pernambuco (UFPE).
-- 🛠️ Possuo curso técnico em Desenvolvimento de Sistemas pela ETE Porto Digital, em parceria ao CESAR School
+<br/>
 
-## Principais Tecnologias
+<div align="center">
+ 
+ 🔭 I am currently working at **Propig**, a partner company of the **Moura Batteries Group**
+ 
+ 🌱 I am learning **front-end** languages and frameworks to enhance my skills.
 
-[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+ 🏤 I am pursuing a degree in **Information Systems** at the **Federal University of Pernambuco (UFPE).**
 
-## Estou aprendendo
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-
+ 🛠️ I have a technical course in **Systems Development** from **ETE Porto Digital**, in partnership with **CESAR School** 
+ 
 
 
-## Projetos em Destaque
 
-- https://github.com/JoaoFel1pe/concurrency-project-golang: Um projeto que trabalha conceitos de concorrência usando Goroutines.
-- https://github.com/JoaoFel1pe/projeto_contabilidade_cin: Um projeto de análise e tratamento de dados em Python aplicado a uma interface gráfica (tkinter).
-- https://github.com/JoaoFel1pe/projeto-p1: Jogo criado em Python que aplica técnicas e práticas de POO.
-- https://github.com/JoaoFel1pe/clima-go-api: Uma projeto para estruturação de APIs em Golang
-- https://github.com/JoaoFel1pe/webhook-service: Um serviço de webhook usando Golang para um gateway de pagamento fictício 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:joaofelipeb23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/joão-felipe-barbosa-da-silva/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-## Estatísticas do GitHub
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div>
+  <h3>Main programming languages</h3><br>
+  <img src="https://skillicons.dev/icons?i=golang,python,javascript," /><br><br>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoaoFel1pe&show_icons=true)
+  <h3>Tools and Frameworks</h3> <br>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,selenium,express,nodejs,react,nextjs" /><br><br>
 
-## Entre em Contato
+  <h3>Databases</h3><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" /><br><br>
+  
+  <h3>DevOps</h3><br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,bitbucket" /><br><br>
+ 
+  <h3>Agile Methodology</h3><br>
+  <img src="https://skillicons.dev/icons?i=git,github,notion" /><br><br>
+</div>
+<br/>
+<hr/>
 
-Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar um email ou me encontrar nas seguintes redes sociais:
+<div align="center">  
+<img width="49%" max-height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoFel1pe&show_icons=true&count_private=true&hide_border=true&theme=merko" alt="JoaoFel1pe github stats" />
+  
+<img width="41%" max-height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFel1pe&layout=compact&hide_border=true&theme=merko&hide_progress=true" />
+</div>
+ 
 
-- Email: joaofelipeb23@gmail.com / jfbs@cin.ufpe.br
-- LinkedIn: www.linkedin.com/in/joão-felipe-barbosa-da-silva
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoFel1pe&theme=merko&line=DAA520&point=FFD700&area=true&hide_border=true)
+ 
+<hr size="10" width="100%" align="center" noshade>
+<hr/>
 
-Fique à vontade para explorar meus projetos e não hesite em entrar em contato se tiver alguma pergunta ou sugestão. 😊
+<h2 align="center">🖥️ Recent Projects 🖥️</h2>
+<br>
+
+<div align=center justify=center>
+  <a href="https://github.com/JoaoFel1pe/webhook-service">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoFel1pe&repo=webhook-service&theme=merko" alt="streak stats"/>
+  </a>
+  <a href="https://github.com/JoaoFel1pe/clima-go-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoFel1pe&repo=clima-go-api&theme=merko" alt="streak stats"/>
+  </a>
+  <a href="https://github.com/JoaoFel1pe/concurrency-project-golang">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoFel1pe&repo=concurrency-project-golang&theme=merko" alt="streak stats"/>
+  </a>
+  <a href="https://github.com/JoaoFel1pe/projeto_contabilidade_cin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoFel1pe&repo=projeto_contabilidade_cin&theme=merko" alt="streak stats"/>
+  </a>
+  <br/>
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+
+<br/>
