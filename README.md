@@ -41,16 +41,16 @@
   <img src="https://skillicons.dev/icons?i=golang,python,javascript," /><br><br>
 
   <h3>Tools and Frameworks</h3> <br>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,selenium,express,nodejs,react,nextjs" /><br><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,selenium,express,nodejs,react,nextjs,postman" /><br><br>
 
   <h3>Databases</h3><br>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" /><br><br>
   
   <h3>DevOps</h3><br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,bitbucket" /><br><br>
+  <img src="https://skillicons.dev/icons?i=aws,docker" /><br><br>
  
   <h3>Agile Methodology</h3><br>
-  <img src="https://skillicons.dev/icons?i=git,github,notion" /><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,notion,bitbucket" /><br><br>
 </div>
 <br/>
 <hr/>
